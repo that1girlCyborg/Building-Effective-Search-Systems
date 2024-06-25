@@ -1,0 +1,9 @@
+This Zip file contains:
+1.SCreenshots of queries for generation and search layers as requested.
+2.CodeFile : Code_Myntra_Search_AI__Reshma.ipynb ::Original Code File
+3.CSV dataFile: Fashion Dataset v2.csv :: Updated dataset
+4.PDF file: Report_Search_AI_Queries :: consisting of documentation
+5.ImagesFolder: Please Refer to the original set available at the module kaggle link [https://www.kaggle.com/datasets/djagatiya/myntra-fashion-product-dataset]
+
+Check directly on GitHub link 
+https://github.com/that1girlCyborg/Building-Effective-Search-Systems
